@@ -1,0 +1,7 @@
+chatbot-goodwe/
+├── chatbot.py              # Código principal do chatbot
+├── requirements.txt        # Dependências do projeto
+├── .env.example           # Exemplo de variáveis (SEM a chave real)
+├── .gitignore             # Arquivos a ignorar no Git
+├── README.md              # Documentação
+└── testes_resultados.md   # Resultados dos testes
